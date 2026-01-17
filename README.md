@@ -23,42 +23,45 @@
 ---
 
 ## 🎯 Language & Framework Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,tex,jupyter%20notebook" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
-
-<!-- 
-  Alternative styles (uncomment the one you like most):
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,tex,jupyter%20notebook" alt="Top Languages Donut" />
-  </p>
-
-  OR vertical donut:
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7&hide=html,css,tex,jupyter%20notebook" alt="Top Languages Vertical Donut" />
-  </p>
--->
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamudul-munna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahamudul-munna&theme=tokyonight"
+    alt="Contribution Activity"
+  />
 </p>
 
 ---
