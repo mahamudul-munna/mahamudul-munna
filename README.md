@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science & Engineering (CSE) Student
+- 🎓 B.Sc in Computer Science & Engineering (CSE) 
 - 💻 Passionate about Web Development
-- 🌱 Learning modern full-stack technologies
+- 🌱 Learning modern Full-Stack technologies
 - 🧠 Love problem solving & clean code
 
 ---
