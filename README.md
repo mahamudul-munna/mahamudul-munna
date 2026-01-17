@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science & Engineering (CSE) Student  
-- 💻 Passionate Web Developer  
+- 💻 Passionate about Web Development  
 - 🌱 Learning modern full-stack technologies  
 - 🧠 Love problem solving & clean code  
 
@@ -22,9 +22,9 @@
 
 ---
 
-## 🎯 Language & Framework Contributions (Donut View)
+## 🎯 Language Contributions (Most Stable)
 <p align="center">
-  <img src="https://metrics.lecoq.io/mahamudul-munna?template=classic&languages=1&languages.limit=8&languages.details=bytes-size,percentage&languages.colors=github&languages.threshold=2%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 ---
 
-## 📌 Featured Focus
+## 📌 Focus Areas
 - 🌐 Frontend: HTML, CSS, JavaScript, React  
 - ⚙️ Backend: Node.js, PHP  
 - 🗄️ Database: MySQL  
