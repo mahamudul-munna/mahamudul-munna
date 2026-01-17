@@ -67,10 +67,10 @@
 ---
 
 ## 📌 Focus Areas
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React
-- ⚙️ **Backend**: Node.js, PHP
-- 🗄️ **Database**: MySQL
-- 🔧 **Tools**: Git, GitHub
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React, Next.js
+- ⚙️ **Backend**: Node.js, PHP, Python
+- 🗄️ **Database**: MySQL, POSTGRESQL
+- 🔧 **Tools**: Git, GitHub, VS Code, Android Studio
 
 ---
 
