@@ -27,13 +27,13 @@
 ## 🎯 Language & Framework Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,tex,html&size_weight=0.55&count_weight=0.45" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,tex,jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Languages Donut" />
 </p>
 
-<!-- Optional: smaller vertical version as secondary view -->
 <!-- 
+  If donut still doesn't show properly after 24h, use this compact fallback temporarily:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,tex,jupyter%20notebook" alt="Top Languages Compact" />
 </p>
 -->
 
@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamudul-munna&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahamudul-munna&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/mahamudul-munna">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
