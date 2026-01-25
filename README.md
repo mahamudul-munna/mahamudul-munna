@@ -13,15 +13,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Mahamudul Munna</h1>
-<h3 align="center">CSE Graduate | Web Developer | Tech Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahamudul-munna&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
-
----
-
 ## 🚀 About Me
 - 🎓 B.Sc in Computer Science & Engineering (CSE) 
 - 💻 Passionate about Web Development
