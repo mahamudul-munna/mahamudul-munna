@@ -13,33 +13,82 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
+- 🎓 B.Sc in Computer Science & Engineering (CSE) 
+- 💻 Passionate about Web Development
+- 🌱 Learning modern Full-Stack technologies
+- 🧠 Love problem solving & clean code
 
-```txt
-🎓 Computer Science & Engineering Graduate
-💻 Web Developer
-🌱 Full Stack Learner
-🧠 Problem Solver & Clean Code Lover
-I enjoy building responsive, scalable web applications
-and continuously improving my development skills.
+---
 
-🧠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,python,mysql,postgresql,git,github,vscode&perline=7" /> </p>
-🚀 Current Focus
-Building modern UI with React & Next.js
+## 🧩 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github" />
+</p>
 
-Developing REST APIs
+---
 
-Database design and optimization
+## 🎯 Language & Framework Contributions
 
-Strengthening DSA and problem-solving skills
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
 
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul-munna&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true" /> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahamudul-munna&theme=tokyonight" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/mahamudul-munna"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <b>Building ideas into reality, one commit at a time.</b> </p> <!-- ANIMATED FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=120&section=footer" /> </p> ```
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mahamudul-munna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mahamudul-munna&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahamudul-munna&theme=tokyonight"
+    alt="Contribution Activity"
+  />
+</p>
+
+---
+
+## 📌 Focus Areas
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React, Next.js
+- ⚙️ **Backend**: Node.js, PHP, Python
+- 🗄️ **Database**: MySQL, POSTGRESQL
+- 🔧 **Tools**: Git, GitHub, VS Code, Android Studio
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/mahamudul-munna">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Building projects, one commit at a time ✨</b>
+</p>
